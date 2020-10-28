@@ -1,0 +1,8 @@
+altair==4.1.0
+pandas==0.25.1
+numpy==1.16.5
+wget==3.2
+vega-datasets==0.8.0
+vega==2.6.0
+watermark==2.0.2
+geopy==2.0.0
